@@ -1016,6 +1016,7 @@ menu:
         scene bg black
         with slow_dissolve
         stop music fadeout 5.0
+        $ leo = "kit"
         jump leoact2
         
     "The front doors.":
@@ -1098,4 +1099,5 @@ menu:
         scene bg black
         with slow_dissolve
         stop music fadeout 5.0
+        $ leo = "fro"
         jump leoact2
