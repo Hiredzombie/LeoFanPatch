@@ -1,6 +1,6 @@
 README
 
-Version 1.0
+Version 1.1
 
 Purpose: 
 
@@ -10,14 +10,13 @@ Install:
 
 	- Drop the folder 'game' into your Echo Install location (where the .exe is) and allow it to overwrite files if prompted.
 
-Changelong:
+Changelong 1.0:
     - Complexity of certain sentences are different from A and B. Chose to keep B's more complex sentence structure for both.
             A Lines Changed: 70, 99-100, 118-124, 313
     - Added in missing dead phone line from B into A, Line 699
     - Took B's script for the Menu Split on Choice as it's less messey/more complex compared to A
     
-Change Log
-Version 1.1
+Change Log 1.1:
 
 Saturday
     Add variables for choices at the diner
